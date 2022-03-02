@@ -13,7 +13,6 @@ Pour effectuer une transaction, suivez les étapes suivantes:
 
 ## Tarifs
 
-Inputs
 
 |Gratuit      |Premium      |
 |:------------|:------------|
