@@ -2,7 +2,7 @@
 # FREQUENTLY ASKED QUETIONS
 
 ## 1. Comment s'inscrire ?
-Pour vous inscrire, rendez-vous sur notre [siteweb](www.fambfad.com/signup). Remplissez lee formulaire avec vos informations. Un message de **confirmation** vous sera envoyé par moyen de votre adresse email su rensiegné.
+Pour vous inscrire, rendez-vous sur notre [siteweb](https://henri-dev.com). Remplissez lee formulaire avec vos informations. Un message de **confirmation** vous sera envoyé par moyen de votre adresse email su rensiegné.
 ## 2. Comment effectuer une transaction ?
 Pour effectuer une transaction, suivez les étapes suivantes:
 
