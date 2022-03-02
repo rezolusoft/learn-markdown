@@ -13,10 +13,9 @@ Pour effectuer une transaction, suivez les étapes suivantes:
 
 ## Tarifs
 |Gratuit|Premium |
-|--------|-------|
+|:--------|:-------|
 
 | capacité max|Capacité max|
 | 10000$| illimitée|
 |Transfert max|Transfert max|
 |5000$| illimité|
-|-----|---------|
