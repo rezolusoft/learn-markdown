@@ -19,3 +19,4 @@ Pour effectuer une transaction, suivez les étapes suivantes:
 | 10000$| illimitée|
 |Transfert max|Transfert max|
 |5000$| illimité|
+|-----|---------|
