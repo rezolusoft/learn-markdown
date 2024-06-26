@@ -1,2 +1,2 @@
 # learn-markdown
-Learn markdown with LCI &amp; Henri-dev
+Learn markdown with LCI &amp; Rezolusoft
